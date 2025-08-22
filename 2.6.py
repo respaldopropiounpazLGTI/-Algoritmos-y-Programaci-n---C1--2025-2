@@ -3,3 +3,4 @@
 numero=int(input("ingrese numero "))
 for i in range(0,numero):
     print(i-numero)
+    #falta completar
