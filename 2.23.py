@@ -13,7 +13,7 @@ while True:
         break
     elif numero<30:
         treinta+=1
-    elif numero>50 and numero<75:
+    elif numero>=50 and numero<=75:
         cincuenta+=1
     elif numero>80:
         ochenta+=1
